@@ -10,7 +10,7 @@
 
 **Goal:** To build a fractional ownership token minting contract (when Alonzo goes live), pay for NFT storage (IPFS, Arweave), and redesign website.
 
-### Mosaic: a decentralized protocol built on Cardano where NFT artists and owners can mint fractional ownership tokens tied directly to their unique NFT's. These ownership tokens are Cardano native tokens and behave like Cardano's core token, ADA, affording them governance and staking capabilities. Ethereum based NFT's can now easily be transitioned into affordable fractional ownership tokens on Cardano, negating their environmental impact and ghastly gas fees.
+#### Mosaic: a decentralized protocol built on Cardano where NFT artists and owners can mint fractional ownership tokens tied directly to their unique NFT's. These ownership tokens are Cardano native tokens and behave like Cardano's core token, ADA, affording them governance and staking capabilities. Ethereum based NFT's can now easily be transitioned into affordable fractional ownership tokens on Cardano, negating their environmental impact and the ghastly gas fees.
 
 -----------------------------------------------------------------------------------------------------
 
