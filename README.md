@@ -6,9 +6,9 @@
 
 [**Mosaic Website**](https://www.planetdao.org/)
 
-[**Catalyst Proposal:**](https://cardano.ideascale.com/a/dtd/Mosaic-fNFT-Native-Token-Mint/352276-48088)
+[**Catalyst Proposal**](https://cardano.ideascale.com/a/dtd/Mosaic-fNFT-Native-Token-Mint/352276-48088)
 
-[**Gitcoin - Green NFT Hackathon:**](https://gitcoin.co/hackathon/green-nft/projects/5171/Mosaic:-Fractional-NFT-Mint)
+[**Gitcoin - Green NFT Hackathon**](https://gitcoin.co/hackathon/green-nft/projects/5171/Mosaic:-Fractional-NFT-Mint)
 
 **Mission:** To create self-governed markets around NFT assets & improve CryptoArt sustainability.
 
