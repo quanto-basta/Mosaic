@@ -4,9 +4,11 @@
 
 **Solution to the problem:** Mint fractional NFT's: Liquidity spurs price discovery, volume increases royalties, shared ownership promotes communities & accessibility.
 
--**Website:** https://www.planetdao.org/
--**Catalyst Proposal:** https://cardano.ideascale.com/a/dtd/Mosaic-fNFT-Native-Token-Mint/352276-48088
--**Gitcoin - Green NFT Hackathon:** https://gitcoin.co/hackathon/green-nft/projects/5171/Mosaic:-Fractional-NFT-Mint
+[**Mosaic Website**](https://www.planetdao.org/)
+
+[**Catalyst Proposal:**](https://cardano.ideascale.com/a/dtd/Mosaic-fNFT-Native-Token-Mint/352276-48088)
+
+[**Gitcoin - Green NFT Hackathon:**](https://gitcoin.co/hackathon/green-nft/projects/5171/Mosaic:-Fractional-NFT-Mint)
 
 **Mission:** To create self-governed markets around NFT assets & improve CryptoArt sustainability.
 
@@ -118,12 +120,12 @@ We will assess our progress at the conclusion of each week and update our Discor
 George Humphreys
 * Lead Developer
 * Plutus Pioneer & SPO
-* https://www.linkedin.com/in/george-humphreys-97429a182/
+* [LinkedIn](https://www.linkedin.com/in/george-humphreys-97429a182/)
 
 Purva Gothi
 * Head of Marketing and Community
 * MSc in Luxury Management
-* https://www.linkedin.com/in/purvagothi/
+* [LinkedIn](https://www.linkedin.com/in/purvagothi/)
 
 Wassim Nemer
 * Project Manager
@@ -133,7 +135,7 @@ N1c0 Wagner
 * Advisor
 * Co-Founder of Kleros
 * Solidity, PHP, Python
-* https://www.linkedin.com/in/nicolas-wagner-ab59249a/
+* [LinkedIn](https://www.linkedin.com/in/nicolas-wagner-ab59249a/)
 
 
 **Relevant experience:** Collective 25+ years in devops, NFT artists & collectors, Ethereum Development (Kleros, Recover, GameCoin), Haskell, Plutus Pioneer Program.
