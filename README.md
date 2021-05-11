@@ -5,6 +5,8 @@
 **Solution to the problem:** Mint fractional NFT's: Liquidity spurs price discovery, volume increases royalties, shared ownership promotes communities & accessibility.
 
 **Website:** https://www.planetdao.org/
+**Catalyst Proposal:** https://cardano.ideascale.com/a/dtd/Mosaic-fNFT-Native-Token-Mint/352276-48088
+**Gitcoin - Green NFT Hackathon:** https://gitcoin.co/hackathon/green-nft/projects/5171/Mosaic:-Fractional-NFT-Mint
 
 **Mission:** To create self-governed markets around NFT assets & improve CryptoArt sustainability.
 
